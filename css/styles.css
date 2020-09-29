@@ -1,0 +1,56 @@
+body { background-color: #a5ecd7;}
+.Vidhul {
+  font-family: 'Dancing Script', cursive;
+  color: #0d7377;
+  font-size: 80px;
+  margin-top: 60px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  line-height: 2;
+}
+.mountain{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 450px;
+  height: 300px
+
+}
+.p1 {
+  color: #0d7377;
+  font-size: 40px;
+  margin-top: 60px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+.computer{
+  position: absolute;
+  margin-top: 50px;
+  height: 350px;
+  width: 350px;
+}
+.vidhul{
+  margin-top: 1px;
+  margin-right: 50px;
+  margin-left: 1050px;
+  height: 350px;
+  width: 350px;
+
+}
+.skills {
+  position: relative;
+  margin-top: 200px;
+  text-align: center;
+
+}
+.abt {
+  font-size: 60px;
+  color: #625261;
+
+
+}
+.about {
+font-size: 35px;
+}
