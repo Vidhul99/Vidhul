@@ -49,10 +49,12 @@ body { background-color: #a5ecd7;}
   font-size: 60px;
   color: #625261;
   margin: auto;
+  text-align: center;
 
 
 }
 .about {
 font-size: 35px;
   margin: auto;
+  text-align: center;
 }
